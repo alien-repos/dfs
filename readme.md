@@ -5,3 +5,4 @@
 - Encryptes the files
 - divides the files into chunks
 - and distributes them to different locations
+- When you Downloaded the file it does vise-versa
